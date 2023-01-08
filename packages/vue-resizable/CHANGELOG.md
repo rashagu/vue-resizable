@@ -1,5 +1,13 @@
 # @kousum/vue-resizable
 
+## 1.0.2
+
+### Patch Changes
+
+- 68bc439: publish
+- Updated dependencies [68bc439]
+  - @kousum/vue-draggable@1.0.2
+
 ## 1.0.1
 
 ### Patch Changes

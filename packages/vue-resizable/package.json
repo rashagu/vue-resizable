@@ -1,6 +1,6 @@
 {
   "name": "@kousum/vue-resizable",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publishConfig": {
     "access": "public"
   },
@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "vue": "^3.2.45",
-    "@kousum/vue-draggable": "1.0.1"
+    "@kousum/vue-draggable": "1.0.2"
   },
   "peerDependencies": {
     "vue": "^3.2.45",

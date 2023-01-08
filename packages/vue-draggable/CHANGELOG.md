@@ -1,5 +1,11 @@
 # @kousum/vue-draggable
 
+## 1.0.2
+
+### Patch Changes
+
+- 68bc439: publish
+
 ## 1.0.1
 
 ### Patch Changes
