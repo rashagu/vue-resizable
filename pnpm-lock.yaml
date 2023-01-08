@@ -100,7 +100,7 @@ importers:
 
   packages/vue-resizable:
     specifiers:
-      '@kousum/vue-draggable': 0.0.0
+      '@kousum/vue-draggable': 1.0.0
       '@rushstack/eslint-patch': ^1.1.4
       '@types/jsdom': ^20.0.1
       '@types/node': ^18.11.12
