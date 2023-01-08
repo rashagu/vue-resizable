@@ -1,6 +1,6 @@
 {
   "name": "@kousum/vue-resizable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "main": "dist/index.mjs",
   "module": "dist/index.mjs",
@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "vue": "^3.2.45",
-    "@kousum/vue-draggable": "1.0.0"
+    "@kousum/vue-draggable": "1.0.1"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.1.4",
