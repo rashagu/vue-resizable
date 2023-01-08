@@ -1,5 +1,5 @@
 {
-  "name": "vue-resizable",
+  "name": "@kousum/vue-resizable",
   "version": "0.0.0",
   "private": true,
   "main": "dist/index.mjs",
