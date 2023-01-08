@@ -2,6 +2,9 @@
   "name": "resizable",
   "version": "0.0.0",
   "private": true,
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "dev": "vite",
     "build:all": "pnpm -C ./packages/vue-draggable build && pnpm -C ./packages/vue-resizable build",
