@@ -14,7 +14,9 @@
     "version": "pnpm changeset version",
     "publish": "pnpm changeset publish",
     "preEnter": "changeset pre enter vue",
-    "preExit": "changeset pre exit"
+    "preExit": "changeset pre exit",
+    "test": "vitest run --coverage",
+    "test:watch": "vitest watch"
   },
   "dependencies": {
     "@changesets/cli": "^2.26.0",
@@ -26,6 +28,7 @@
     "@types/node": "^18.11.12",
     "@vitejs/plugin-vue": "^4.0.0",
     "@vitejs/plugin-vue-jsx": "^3.0.0",
+    "@vitest/coverage-c8": "^0.26.3",
     "@vue/eslint-config-prettier": "^7.0.0",
     "@vue/eslint-config-typescript": "^11.0.0",
     "@vue/test-utils": "^2.2.6",
